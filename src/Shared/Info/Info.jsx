@@ -18,7 +18,7 @@ const Info = () => {
                 </div>
             </div>
             <div className="flex justify-center py-2 border-b-2">
-                <a className="flex items-center gap-2 font-bold" href="https://drive.google.com/file/d/1xR4Uks18N_AJgR6jy1Ny-OFhIo2daD5h/view?usp=sharing"><span className="text-2xl"><CiSaveDown2 /></span>download resume</a>
+                <a className="flex items-center gap-2 font-bold" href="https://drive.google.com/file/d/1-Gcg5J0Z_xPDr7OLyjBqLPgTozCs5zrX/view?usp=sharing"><span className="text-2xl"><CiSaveDown2 /></span>download resume</a>
             </div>
             <div className="p-4">
                 <p className="text-justify">Hi there! I'm Ahad Khan, a junior MERN stack developer. I am an enthusiastic and creative individual who is passionate about continuous learning. I am always looking to enhance my skills and knowledge to achieve greater success. I have an open mind towards new ideas and learning opportunities, and I believe that collaboration is key to success in teamwork. Throughout my experiences, I have learned that attention to detail is crucial in everything I work on.</p>
