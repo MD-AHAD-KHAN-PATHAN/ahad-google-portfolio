@@ -14,16 +14,18 @@ const Info = () => {
                     <p>MERN Stack Developer</p>
                 </div>
                 <div>
-                    <img className="w-40 rounded-full" src={ahad} alt="" />
+                    <img className="w-28" src={ahad} alt="" />
                 </div>
             </div>
             <div className="flex justify-center py-2 border-b-2">
-                <a className="flex items-center gap-2 font-bold" href="https://drive.google.com/file/d/1-Gcg5J0Z_xPDr7OLyjBqLPgTozCs5zrX/view?usp=sharing"><span className="text-2xl"><CiSaveDown2 /></span>download resume</a>
+                <a className="flex items-center gap-2 font-bold" href="https://drive.google.com/file/d/1kn3-4Yqz30phCkUbMbpzHKRWY3Uipde2/view?usp=sharing"><span className="text-2xl"><CiSaveDown2 /></span>download resume</a>
             </div>
             <div className="p-4">
-                <p className="text-justify">Hi there! I'm Ahad Khan, a junior MERN stack developer. I am an enthusiastic and creative individual who is passionate about continuous learning. I am always looking to enhance my skills and knowledge to achieve greater success. I have an open mind towards new ideas and learning opportunities, and I believe that collaboration is key to success in teamwork. Throughout my experiences, I have learned that attention to detail is crucial in everything I work on.</p>
+                <p className="text-justify">Hi there! I'm Ahad Khan, a junior MERN stack developer. I am dedicated to approaching challenges with a
+                    problem-solving mindset. I believe that every coding hurdle is an opportunity to enhance my skills and find
+                    innovative solutions that contribute to the project's overall success.</p>
 
-                <h3 className="font-bold my-4">Born : <span className="font-normal"> April 4, 2000 (age 23 years),</span><span className="text-blue-800 font-normal"> Feni, Chottogram, Bangladesh</span></h3>
+                <h3 className="font-bold my-4">Born : <span className="font-normal"> April 6, 2000 (age 23 years),</span><span className="text-blue-800 font-normal"> Feni, Chottogram, Bangladesh</span></h3>
                 <h3 className="font-bold ">Upcoming Project Name : <span className="font-normal">Instructor</span></h3>
                 <div>
                     <h1 className="font-bold text-xl my-4">Profiles</h1>

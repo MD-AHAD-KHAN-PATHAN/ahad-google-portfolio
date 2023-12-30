@@ -124,7 +124,7 @@ const Skills = () => {
                 </div>
                 <div>
                     <div className="my-4">
-                        <p className="font-bold text-xl">HackerRank <a className="text-blue-700 text-sm" href="https://www.hackerrank.com/profile/md_ahad_khan">Live link</a></p>
+                        <p className="font-bold text-xl">HackerRank <a className="text-blue-700 text-sm" href="https://www.hackerrank.com/profile/md_ahad_khan">Streaming</a></p>
                         <p>A popular online platform for coding challenges and contests.</p>
                         <div>
 
@@ -137,7 +137,7 @@ const Skills = () => {
                         </div>
                     </div>
                     <div>
-                        <p className="font-bold text-xl">Codeforces <a className="text-blue-700 text-sm" href="https://codeforces.com/profile/REDBLACK01">Live link</a></p>
+                        <p className="font-bold text-xl">Codeforces <a className="text-blue-700 text-sm" href="https://codeforces.com/profile/REDBLACK01">Streaming</a></p>
                         <p>A popular online platform for competitive programming and contests.</p>
                         <div>
                             <li>I have successfully solved over <span className="font-bold">350</span> problems on Codeforces.</li>

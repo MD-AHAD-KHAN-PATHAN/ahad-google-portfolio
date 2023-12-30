@@ -6,7 +6,7 @@ const Navbar = () => {
     const navLink = <>
 
         <li ><NavLink to='/'>{({ isActive}) => (
-            <span className={isActive ? "text-blue-700 pb-2 border-b-4 border-blue-700 font-bold" : ""}>About</span>
+            <span className={isActive ? "text-blue-700 pb-2 border-b-4 border-blue-700 font-bold" : ""}>Home</span>
         )}</NavLink></li>
         <li><NavLink to='/skills'>{({ isActive}) => (
             <span className={isActive ? "text-blue-700 pb-2 border-b-4 border-blue-700 font-bold" : ""}>Skills</span>
